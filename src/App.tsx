@@ -231,7 +231,7 @@ export default function App() {
               <ExperienceCard 
                 title="Firmware Developer"
                 company="Embedded Solutions Inc."
-                period="2023 - Present"
+                period="2024 - Present"
                 description="Developing firmware solutions for international clients in industrial automation and smart manufacturing, with a focus on image processing and embedded systems."
                 achievements={[
                   "Successfully delivered custom firmware solutions for German and US-based industrial clients",
