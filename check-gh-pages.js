@@ -1,4 +1,4 @@
-const https = require('https');
+import https from 'https';
 
 // Replace with your GitHub username and repository name
 const owner = 'Mahesh1507';
