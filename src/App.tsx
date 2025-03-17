@@ -355,18 +355,18 @@ const skills = [
 
 const projects = [
   {
-    title: 'Smart Home Controller',
-    description: 'Developed a firmware solution for a smart home controller using ESP32.',
-    tech: ['ESP32', 'FreeRTOS', 'MQTT', 'WiFi'],
+    title: 'Industrial Image Processing',
+    description: 'Developed advanced image processing algorithms for smart manufacturing applications to detect defects and ensure quality control.',
+    tech: ['OpenCV', 'C++', 'Raspberry Pi', 'Machine Learning'],
   },
   {
-    title: 'Industrial Sensor Network',
-    description: 'Created a robust sensor network for industrial monitoring applications.',
-    tech: ['STM32', 'CAN Bus', 'Modbus', 'C++'],
+    title: 'OCR Text Detection System',
+    description: 'Created an OCR-based part detection system for smart industry that automatically identifies and tracks components in the manufacturing process.',
+    tech: ['TensorFlow Lite', 'Python', 'ESP32-CAM', 'MQTT'],
   },
   {
-    title: 'Wearable Health Monitor',
-    description: 'Built firmware for a wearable device tracking vital health metrics.',
-    tech: ['nRF52', 'BLE', 'Sensors', 'Battery Management'],
+    title: 'Smart Display Box',
+    description: 'Built an interactive smart display system for showcasing luxury products with proximity sensors and dynamic lighting effects.',
+    tech: ['Arduino', 'I2C', 'LED Control', 'Motion Sensors'],
   },
 ];
