@@ -9,7 +9,7 @@ export default defineConfig({
     include: ['react-dom', 'framer-motion'],
   },
   build: {
-    outDir: 'dist',
+    outDir: 'docs',
     assetsDir: 'assets',
     sourcemap: true,
     rollupOptions: {
