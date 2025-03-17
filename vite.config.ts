@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/Portfolio/',
   optimizeDeps: {
-    include: ['three', 'react-dom', 'framer-motion'],
+    include: ['react-dom', 'framer-motion'],
   },
   build: {
     outDir: 'dist',
@@ -16,7 +16,6 @@ export default defineConfig({
       output: {
         manualChunks: {
           'vendor': ['react', 'react-dom'],
-          'three': ['three', '@react-three/fiber', '@react-three/drei'],
         },
       },
     },
