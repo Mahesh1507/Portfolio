@@ -100,17 +100,7 @@ export default function App() {
                 <motion.a
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
-                  href="https://github.com/yourusername"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-12 h-12 flex items-center justify-center rounded-full tech-card text-gray-400 hover:text-blue-400"
-                >
-                  <Github className="w-6 h-6" />
-                </motion.a>
-                <motion.a
-                  whileHover={{ scale: 1.1 }}
-                  whileTap={{ scale: 0.9 }}
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://www.linkedin.com/in/maheshwar-web-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 flex items-center justify-center rounded-full tech-card text-gray-400 hover:text-blue-400"
@@ -120,7 +110,7 @@ export default function App() {
                 <motion.a
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
-                  href="mailto:maheshwar@example.com"
+                  href="mailto:vmaheshwar007@gmail.com"
                   className="w-12 h-12 flex items-center justify-center rounded-full tech-card text-gray-400 hover:text-blue-400"
                 >
                   <Mail className="w-6 h-6" />
@@ -256,7 +246,7 @@ export default function App() {
               Let's discuss how I can help bring your industrial IoT and automation projects to life with efficient and reliable solutions.
             </p>
             <motion.a 
-              href="mailto:maheshwar@example.com"
+              href="mailto:vmaheshwar007@gmail.com"
               className="inline-flex items-center px-8 py-4 bg-blue-500 rounded-lg text-white font-semibold hover:bg-blue-600 transition-all transform hover:scale-105 contact-button"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
