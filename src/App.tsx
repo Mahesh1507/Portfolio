@@ -227,7 +227,7 @@ export default function App() {
           </div>
           <div className="container mx-auto px-4 relative z-10">
             <h2 className="text-4xl font-bold mb-16 text-center section-title">Professional Journey</h2>
-            <div className="space-y-12 max-w-4xl mx-auto">
+            <div className="space-y-12 max-w-4xl mx-auto mt-24">
               <ExperienceCard 
                 title="Firmware Developer"
                 company="Embedded Solutions Inc."
@@ -249,7 +249,7 @@ export default function App() {
           <div className="absolute inset-0 w-full h-full">
             <FirmwareBackground variant="code" opacity={0.5} />
           </div>
-          <div className="container mx-auto px-4 text-center relative z-10">
+          <div className="container mx-auto px-4 text-center relative z-10 mt-24">
             <h2 className="text-4xl font-bold mb-8 section-title">Let's Connect</h2>
             <p className="text-xl mb-12 text-gray-400 max-w-2xl mx-auto">
               Looking for a firmware developer with expertise in industrial automation and embedded vision systems? 
