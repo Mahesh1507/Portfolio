@@ -220,7 +220,7 @@ export default function App() {
             <div className="space-y-12 max-w-4xl mx-auto mt-24">
               <ExperienceCard 
                 title="Firmware Developer"
-                company="Embedded Solutions Inc."
+                company="United Industries Plastic Pvt Ltd"
                 period="2024 - Present"
                 description="Developing firmware solutions for international clients in industrial automation and smart manufacturing, with a focus on image processing and embedded systems."
                 achievements={[
